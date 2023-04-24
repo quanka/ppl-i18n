@@ -22,7 +22,7 @@ the feasibility.
 * [Afrikaans](/translations/afr.po) (11% complete; 236 remaining)
 * [Dutch](/translations/nld.po) (59% complete; 127 remaining)
 * [German](/translations/deu.po) (92% complete; 25 remaining)
-* [Greek](/translations/gre.po) (96% complete; 12 remaining)
+* [Greek](/translations/gre.po) (99% complete; 2 remaining)
 * [French](/translations/fra.po) (96% complete; 12 remaining)
 * [Croatian](/translations/hrv.po) (96% complete; 12 remaining)
 * [Hungarian](/translations/hun.po) (0% complete; 317 remaining)
@@ -34,11 +34,11 @@ the feasibility.
 * [Polish](/translations/pol.po) (90% complete; 31 remaining)
 * [Portuguese](/translations/por.po) (81% complete; 58 remaining)
 * [Romanian](/translations/ron.po) (90% complete; 31 remaining)
-* [Russian](/translations/rus.po) (96% complete; 12 remaining)
+* [Russian](/translations/rus.po) (100% complete! 🎉)
 * [Spanish](/translations/spa.po) (96% complete; 12 remaining)
 * [Tagalog](/translations/tgl.po) (94% complete; 16 remaining)
 * [Thai](/translations/tha.po) (0% complete; 317 remaining)
-* [Turkish](/translations/tur.po) (96% complete; 12 remaining)
+* [Turkish](/translations/tur.po) (100% complete! 🎉)
 * [Ukrainian](/translations/ukr.po) (95% complete; 13 remaining)
 * [Georgian](/translations/kat.po) (96% complete; 12 remaining)
 * [Japanese](/translations/jpn.po) (82% complete; 56 remaining)
@@ -47,4 +47,4 @@ the feasibility.
 * [Code](/translations/code.po) (96% complete; 12 remaining)
 * [Meme-nglish](/translations/meme.po) (85% complete; 45 remaining)
 * [Pirate Speak](/translations/pirate.po) (67% complete; 104 remaining)
-> Report generated on Apr 20 2023 19:12:30 UTC
+> Report generated on Apr 24 2023 01:05:29 UTC
